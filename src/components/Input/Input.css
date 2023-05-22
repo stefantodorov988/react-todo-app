@@ -1,0 +1,16 @@
+.input,
+.input:is(:focus, :hover, :active) {
+  border: none;
+  outline: none;
+}
+
+.input::placeholder {
+  color: rgb(199, 199, 199);
+}
+
+.input {
+  font-weight: 500;
+  font-size: 1em;
+  caret-color: rgb(72, 128, 255);
+  width: 100%;
+}

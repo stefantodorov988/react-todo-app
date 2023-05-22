@@ -1,0 +1,15 @@
+.button {
+    background: none;
+    border: none;
+    outline: none;
+    color: rgb(199, 199, 199);
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    color: black;
+  }
+  
+  .button.selected {
+    color: rgb(72, 128, 255);
+  }
