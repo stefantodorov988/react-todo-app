@@ -1,4 +1,3 @@
-import PropTypes from "prop-types";
 import "./CheckBox.css";
 
 export const Checkbox = ({

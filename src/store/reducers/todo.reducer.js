@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { loadState } from "../../helpers/localstorage.helper";
 
-const localStorageState = loadState();
+//const localStorageState = loadState();
 
 // const initialState = [...localStorageState];
 const initialState = [{ 'id' : '123'}]

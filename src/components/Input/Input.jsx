@@ -1,4 +1,3 @@
-import PropTypes from "prop-types";
 import "./Input.css";
 
 export const Input = ({ handleChange, handleKey, value }) => {
