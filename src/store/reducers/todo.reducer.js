@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { loadState } from "../../helpers/localstorage.helper";
+// import { loadState } from "../../helpers/localstorage.helper";
 
 //const localStorageState = loadState();
 
