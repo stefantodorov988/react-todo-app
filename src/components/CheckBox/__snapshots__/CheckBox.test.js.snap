@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Checkbox component correctly 1`] = `
+<div
+  class="checkbox-wrapper"
+>
+  <label>
+    <div>
+      <input
+        checked=""
+        class="checked"
+        type="checkbox"
+      />
+    </div>
+    <span
+      style="margin-left: 0.6em;"
+    >
+      Checkbox Label
+    </span>
+  </label>
+</div>
+`;

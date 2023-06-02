@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Input component correctly 1`] = `
+<input
+  class="input"
+  placeholder="Please enter text"
+  type="text"
+  value=""
+/>
+`;

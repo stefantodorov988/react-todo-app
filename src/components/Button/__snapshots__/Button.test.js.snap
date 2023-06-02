@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Button component correctly 1`] = `
+<button
+  class="button selected"
+>
+  Button 1
+</button>
+`;
