@@ -9,7 +9,7 @@ export const withTodos = Component => props => {
 
     const handleUpdate = useCallback((value) => {
         dispatch(update(value));
-      },[]);
+      },[dispatch]);
 
     return <Component {...props} todos={todos} handleUpdate={handleUpdate}></Component>
 }
